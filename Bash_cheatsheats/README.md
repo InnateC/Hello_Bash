@@ -1,3 +1,4 @@
+# *Belongs to [GitHub Pages](https://github.com/LeCoupa/awesome-cheatsheets).*
 #!/bin/bash
 ##############################################################################
 # SHORTCUTS and HISTORY
