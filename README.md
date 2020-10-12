@@ -1,5 +1,6 @@
 # Hello_Bash
 [](https://img.shields.io/github/stars/InnateC/Hello_Bash)
+[How are you working from the inside](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
 
 ## [Cheatsheats](/Bash_cheatsheats/README.md) belongs to [@LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets).
 > I thought it would be nice to have something cool closer 
