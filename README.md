@@ -1,6 +1,6 @@
 # Hello_Bash
-<img src="docs/Gnu-bash-logo.svg.png" height="20%" align="right" />
-[](https://img.shields.io/github/stars/InnateC/Hello_Bash)
+<img src="docs/Gnu-bash-logo.svg.png" height="100px" width="auto" />
+
 [How are you working from the inside](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
 
 ## [Cheatsheats](/Bash_cheatsheats/README.md) belongs to [@LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets).
