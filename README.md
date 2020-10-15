@@ -1,7 +1,7 @@
 # Hello_Bash
 <img src="docs/Gnu-bash-logo.svg.png" height="100px" width="auto" />
 
-[How are you working from the inside](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
+[How are you working from the inside](http://mywiki.wooledge.org/BashGuide)
 
 ## [Cheatsheats](/Bash_cheatsheats/README.md) belongs to [@LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets).
 > I thought it would be nice to have something cool closer 
