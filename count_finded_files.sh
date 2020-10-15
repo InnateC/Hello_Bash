@@ -1,12 +1,11 @@
 #!/bin/bash
 count=0
-IFS=$'\0'
-for file 
+for file in *
 do
-	if [[ -f $file ]] 
+	if [[ -f "$file" ]] 
 	then
 		let "count++"
-		echo $file
+		echo "$file"
 	else
 		echo "$file is failed"
 	fi
